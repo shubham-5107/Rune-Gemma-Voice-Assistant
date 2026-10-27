@@ -38,5 +38,7 @@ python scripts/main.py
 - Speech-to-text uses `recognize_google`, which sends audio to Google's web service. The LLM itself runs fully offline; swap in an offline recognizer (e.g. Vosk) for end-to-end offline use.
 - Logs are stored locally in `logs/agent_log.jsonl` and contain your spoken queries.
 
-## License
-MIT
+## Author
+
+SHUBHAM SHARMA
+GITHUB: https://github.com/shubham-5107
